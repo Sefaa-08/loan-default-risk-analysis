@@ -17,9 +17,9 @@ driving loan defaults using Python and Power BI.
 - Jupyter Notebook
 
 ## Files
-- `loandefaultanalysis.ipynb` — Python analysis notebook
-- `loan_cleaned.csv` — Cleaned dataset
-- `loan_default_dashboard.pbix` — Power BI dashboard
+- `loandefaultanalysis.ipynb` - Python analysis notebook
+- `loan_cleaned.csv` - Cleaned dataset
+- `loan_default_dashboard.pbix` - Power BI dashboard
 
 ## Dataset
 32,576 customer records · 12 columns · Source: Kaggle.
